@@ -1,55 +1,58 @@
-# Data Scientist
+# Data Scientist & AI Developer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills:
+- **Programming Languages**: Python (TensorFlow, PyTorch), SQL, R, JavaScript
+- **Databases**: NoSQL, MongoDB, BigQuery, PostgreSQL, Firestore
+- **Tools**: Power BI, Tableau, Excel, AWS, Google Cloud Platform, Looker, BeautifulSoup
+- **Techniques**: Machine Learning (Regression, Random Forest), Hypothesis Testing, ETL, Data Scraping
+- **Project Management**: SAP, Agile Methodologies, User Experience Design
+- **Certifications**: Salesforce Certified Platform Developer
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- **M.S., Business Analytics & Artificial Intelligence** | The University of Texas at Dallas (_Expected May 2025, GPA: 3.5_)
+  - Dean’s Excellence Scholarship
+- **B.Tech., Electronics and Communication Engineering** | Shri Vaishnav Vidyapeeth Vishwavidyalaya (_May 2020, GPA: 3.0_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+### Software Developer Intern @ Sabre Corporation (_May 2024 – Aug 2024_)
+- Developed a GPT-4-powered chatbot with a RAG pipeline for enhanced data retrieval and integrated a scalable Firestore datastore, improving real-time data access.
+- Conducted 15+ user interviews to optimize the chatbot’s database integration with Sabre's documentation, enhancing partner data-centric strategies.
+- Built scalable data pipelines to support over 1,000 daily queries with BeautifulSoup and Firestore, increasing operational efficiency.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+### Senior Analyst @ Capgemini Technology Services, India (_June 2021 – June 2023_)
+- Led analytics for Capital One's teen card sector, analyzing 150,000+ records using TensorFlow, improving fraud detection and boosting engagement by 45%.
+- Implemented Looker-based BI tools for Capital One, reducing task times by 3 hours and increasing operational efficiency by 25%.
+
+### Technical Analyst @ Byju's Pvt. Ltd, India (_March 2021 – May 2021_)
+- Engineered data pipelines for e-commerce, driving a 25% increase in sales targets and streamlining digital marketing operations.
+- Led SQL-based operations for over 20,000 daily transactions, enhancing data integrity and operational efficiency.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### Project 01: Fashion Finder App - Scan, Shop, and Style with AI
+Developed a mobile application that leverages advanced image recognition technology to revolutionize fashion shopping. The app scans clothing items and finds stores that stock them, compares prices across different retailers, and provides AI-driven style suggestions by analyzing current fashion trends.  
+**Technologies used**: Python, AI, Image Recognition
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Project 02: Better Solar Forecasting With Machine Learning
+Collaborated on SolarNet, a software developed by UTD researchers to improve short-term solar forecasting. SolarNet forecasts 10-min ahead and 1-hour ahead based only on sky images, outperforming benchmark models with a high R² (0.91).  
+**Technologies used**: Python, Machine Learning (Deep Learning), Image Processing
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Project 03: Comprehensive Academic Report Management System (C-ARMS)
+Developed a SQL-based report management system for colleges, creating data pipelines that streamlined academic data handling, reducing management time by 50%.  
+**Technologies used**: SQL, Data Pipelines
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### Project 04: Customer Churn Prediction Model
+Built a machine learning model using Random Forest and Logistic Regression to predict customer churn, achieving an 85% accuracy rate and reducing churn by 20%.  
+**Technologies used**: Python, scikit-learn, A/B Testing
 
-![Bike Study](/assets/img/bike_study.jpeg)
+## Leadership Experience & Organizations
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+### Member, Core Team @ Hover pod (Robotics and Research Group) (_September 2017 – May 2020_)
+- Won the National Students' Space Challenge '17 at IIT Kharagpur and led a comprehensive 10-day Robotics Workshop, teaching advanced programming skills and practical experience to over 300 students.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+### Cadet @ National Cadet Corps (Air-Wing) (_August 2016 – August 2019_)
+- Proposed and coordinated multiple blood drives, collecting over 200 donations, and participated in community integration activities, fostering teamwork, and enhancing communication among more than 100 participants.
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+### Volunteer @ Educational Outreach (_August 2016 – February 2020_)
+- Instructed over 50 underprivileged children, boosting literacy, and fostering personal development through education.
 
-- [Data Science Blog](https://medium.com/@shawhin)
