@@ -1,4 +1,4 @@
-# 🌟 **Sarthak Verma** — Data Scientist & AI Developer 🌟
+# **Sarthak Verma** — Data Scientist & AI Developer 
 
 > "Turning data into actionable insights to drive innovation and create meaningful impact." 🚀
 
@@ -27,7 +27,7 @@
 
 - 🏫 **M.S., Business Analytics & AI**  
   _The University of Texas at Dallas, Expected May 2025_ (GPA: 3.5)  
-  **Dean’s Excellence Scholarship**
+  **Dean’s Excellence Scholar**
 
 - 🎓 **B.Tech., Electronics & Communication Engineering**  
   _Shri Vaishnav Vidyapeeth Vishwavidyalaya, May 2020_ (GPA: 3.0)
@@ -63,25 +63,25 @@ _March 2021 – May 2021_
 
 ## 🌟 **Projects**
 
-### 👗 **Project: Fashion Finder App - AI for Fashion Shopping**
+### 👗 **Fashion Finder App - AI for Fashion Shopping**
 Developed an AI-powered app for fashion lovers! Scan clothing items and find stores with it in stock, compare prices, and get **AI-driven style suggestions**.  
 🛠️ **Technologies used:** Python, AI, Image Recognition
 
 ---
 
-### 🌞 **Project: Better Solar Forecasting with Machine Learning**
+### 🌞 **Better Solar Forecasting with Machine Learning**
 Collaborated on **SolarNet** to forecast **10-min and 1-hour ahead** solar energy predictions based on sky images, achieving an **R² of 0.91**.  
 **Technologies used:** Python, Deep Learning, Image Processing
 
 ---
 
-### 📝 **Project: Comprehensive Academic Report Management System (C-ARMS)**
+### 📝 **Comprehensive Academic Report Management System (C-ARMS)**
 Developed a **SQL-based report management system**, streamlining academic data management, reducing processing time by **50%**.  
 **Technologies used:** SQL, Data Pipelines
 
 ---
 
-### 📉 **Project: Customer Churn Prediction Model**
+### 📉 **Customer Churn Prediction Model**
 Built a machine learning model predicting customer churn with **85% accuracy**, reducing churn by **20%** using **Random Forest & Logistic Regression**.  
 **Technologies used:** Python, scikit-learn, A/B Testing
 
