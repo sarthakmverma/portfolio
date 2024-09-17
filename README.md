@@ -65,7 +65,7 @@ _March 2021 – May 2021_
 
 ### 👗 **Fashion Finder App - AI for Fashion Shopping**
 Developed an AI-powered app for fashion lovers! Scan clothing items and find stores with it in stock, compare prices, and get **AI-driven style suggestions**.  
-🛠️ **Technologies used:** Python, AI, Image Recognition
+**Technologies used:** Python, AI, Image Recognition
 
 ---
 
