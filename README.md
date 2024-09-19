@@ -36,7 +36,7 @@
 
 ## 💼 **Work Experience**
 
-### 👨‍💻 **Software Developer Intern @ Sabre Corporation, Texas**  
+### 👨‍💻 **Software Developer Intern @ Sabre Corporation**  
 _May 2024 – Aug 2024_
 
 - Built a **GPT-4-powered chatbot** using RAG pipeline for data retrieval and Firestore for real-time data storage.  
@@ -45,7 +45,7 @@ _May 2024 – Aug 2024_
 
 ---
 
-### 💡 **Senior Analyst @ Capgemini Technology Services, India**  
+### 💡 **Senior Analyst @ Capgemini Technology Services**  
 _June 2021 – June 2023_
 
 - Led analytics for **Capital One**, handling **150,000+ records** with TensorFlow, improving fraud detection by **45%**.  
@@ -53,7 +53,7 @@ _June 2021 – June 2023_
 
 ---
 
-### ⚙️ **Technical Analyst @ Byju's Pvt. Ltd, India**  
+### ⚙️ **Technical Analyst @ Byju's Pvt. Ltd**  
 _March 2021 – May 2021_
 
 - Developed e-commerce data pipelines, increasing sales by **25%** through optimized digital marketing.  
