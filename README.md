@@ -36,7 +36,7 @@
 
 ## 💼 **Work Experience**
 
-### **Software Developer Intern @ Sabre Corporation**  
+### **Software Developer Intern @ Sabre Corporation, Southlake, Texas**  
 _May 2024 – Aug 2024_
 
 - Built a **GPT-4-powered chatbot** using RAG pipeline for data retrieval and Firestore for real-time data storage.  
