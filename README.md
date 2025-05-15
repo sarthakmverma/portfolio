@@ -115,6 +115,6 @@ Indore, India
 Solving real-world problems with code, data, and a product mindset. Obsessed with clean UX, shipping fast, and making insights actionable.
 
 📍 Dallas, TX  
-🎯 3+ Years PM Experience  
+🎯 5+ Years PM Experience  
 💼 Worked with Capital One, Sabre  
 📊 5K+ Users Impacted
