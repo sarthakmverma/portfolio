@@ -9,9 +9,8 @@
     body {
       margin: 0;
       font-family: 'Press Start 2P', monospace;
-      background-color: #121212;
-      color: #e5e5e5;
-      background-image: url('https://www.transparenttextures.com/patterns/black-linen.png');
+      background-color: #f2f2f2;
+      color: #1a1a1a;
     }
     .container {
       display: flex;
@@ -22,19 +21,19 @@
     }
     .left-panel {
       flex: 1 1 30%;
-      background: #1e1e1e;
+      background: #ffffff;
       padding: 1rem;
-      border-right: 4px solid #00ffc8;
-      box-shadow: 4px 0 8px rgba(0,255,200,0.1);
+      border-right: 4px solid #0077ff;
+      box-shadow: 4px 0 8px rgba(0, 0, 0, 0.05);
     }
     .left-panel img {
       width: 100%;
-      border: 4px double #00ffc8;
+      border: 4px double #0077ff;
       margin-bottom: 1rem;
     }
     .intro-text {
       font-size: 0.7rem;
-      line-height: 1.5;
+      line-height: 1.6;
     }
     .right-panel {
       flex: 1 1 70%;
@@ -42,17 +41,17 @@
     }
     h1 {
       font-size: 1rem;
-      color: #00ffc8;
+      color: #0077ff;
       margin-bottom: 0.5rem;
     }
     h2 {
-      color: #00ffc8;
-      border-bottom: 2px dashed #00ffc8;
+      color: #0077ff;
+      border-bottom: 2px dashed #0077ff;
       padding-bottom: 0.5rem;
       margin-top: 2rem;
     }
     h3 {
-      color: #facc15;
+      color: #ff9900;
       font-size: 0.9rem;
     }
     ul {
@@ -61,7 +60,7 @@
       font-size: 0.7rem;
     }
     a {
-      color: #00ffc8;
+      color: #0077ff;
       text-decoration: none;
       font-size: 0.7rem;
     }
