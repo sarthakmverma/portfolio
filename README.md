@@ -1,12 +1,11 @@
-# **Sarthak Verma**  
-### *Program Manager | AI Product Strategy | Analytics Execution*
+# **Sarthak Verma**
 
+### *Program Manager | AI Product Strategy | Analytics Execution*
 > Delivering scalable, insight-driven products with precision, data, and cross-functional leadership.
 
 ---
 
-## 🬝 Summary
-
+## 🧭 Summary
 Product-minded program manager with a strong background in AI, analytics, and cloud infrastructure. Experienced in delivering high-impact solutions across client onboarding, payment platforms, and data-intensive systems. Proven record working with teams at Sabre, Capital One, and early-stage ventures — always focused on shipping user-centered products and driving measurable business outcomes.
 
 ---
@@ -14,13 +13,28 @@ Product-minded program manager with a strong background in AI, analytics, and cl
 ## ⚙️ Technical Skills
 
 ### 🧪 **Data & Analytics**
-Python • R • SQL • TensorFlow • SAS • Power BI • Tableau
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1A1A1A?style=for-the-badge&logo=sas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### 🌐 **Cloud & Infrastructure**
-AWS • GCP • Snowflake • MongoDB • Firestore
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-F57C00?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### 🧠 **Product & PM Tools**
-Jira • Confluence • Figma • Git • Alteryx • Excel
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-276DC3?style=for-the-badge&logo=alteryx&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
@@ -78,7 +92,7 @@ Indore, India
 - Developed B2B pricing model saving $10K/incident; secured early institutional traction
 
 ### **Digital Client Onboarding & API Access Flow**
-- Created a platform enabling relocation listings via WhatsApp/Facebook without group access
+- Created platform enabling relocation listings via WhatsApp/Facebook without group access
 - Scaled to **5K+ users**, integrated logistics modules, and achieved **10% MoM growth**
 
 ---
@@ -91,7 +105,6 @@ Indore, India
 ---
 
 ## 📬 Contact
-
 [LinkedIn](https://www.linkedin.com/in/sarthakmverma)  
 [GitHub](https://github.com/sarthakmverma)  
 [Portfolio](https://sarthakmverma.github.io/portfolio)  
@@ -100,11 +113,10 @@ Indore, India
 ---
 
 ### 👤 About Me (Left Panel Bio)
-
 **Program Manager | AI Product Strategist**  
 Solving real-world problems with code, data, and a product mindset. Obsessed with clean UX, shipping fast, and making insights actionable.
 
 📍 Dallas, TX  
-🎯 5+ Years PM Experience  
+🎯 3+ Years PM Experience  
 💼 Worked with Capital One, Sabre  
 📊 5K+ Users Impacted
