@@ -1,5 +1,3 @@
-# **Sarthak Verma**
-
 ### *Program Manager | AI Product Strategy | Analytics Execution*
 > Delivering scalable, insight-driven products with precision, data, and cross-functional leadership.
 
