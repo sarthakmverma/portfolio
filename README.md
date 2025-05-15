@@ -3,79 +3,103 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sarthak Verma | Pixel Portfolio</title>
+  <title>Sarthak Verma | Product & Data Portfolio</title>
   <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
   <style>
     body {
       margin: 0;
       font-family: 'Press Start 2P', monospace;
-      background-color: #1a1a1a;
-      color: #fefefe;
-      background-image: url('https://www.transparenttextures.com/patterns/purty-wood.png');
-      background-size: cover;
+      background-color: #121212;
+      color: #e5e5e5;
+      background-image: url('https://www.transparenttextures.com/patterns/black-linen.png');
     }
     .container {
       display: flex;
+      flex-wrap: wrap;
       max-width: 1200px;
       margin: 0 auto;
-      padding: 2rem;
+      padding: 2rem 1rem;
     }
     .left-panel {
-      width: 30%;
-      background: #222;
+      flex: 1 1 30%;
+      background: #1e1e1e;
       padding: 1rem;
-      border-right: 4px solid #00f2ff;
+      border-right: 4px solid #00ffc8;
+      box-shadow: 4px 0 8px rgba(0,255,200,0.1);
     }
     .left-panel img {
       width: 100%;
-      border: 4px double #fff;
+      border: 4px double #00ffc8;
       margin-bottom: 1rem;
     }
+    .intro-text {
+      font-size: 0.7rem;
+      line-height: 1.5;
+    }
     .right-panel {
-      width: 70%;
-      padding: 2rem;
+      flex: 1 1 70%;
+      padding: 1rem 2rem;
+    }
+    h1 {
+      font-size: 1rem;
+      color: #00ffc8;
+      margin-bottom: 0.5rem;
     }
     h2 {
-      color: #00f2ff;
-      border-bottom: 2px dashed #00f2ff;
+      color: #00ffc8;
+      border-bottom: 2px dashed #00ffc8;
       padding-bottom: 0.5rem;
+      margin-top: 2rem;
     }
     h3 {
       color: #facc15;
+      font-size: 0.9rem;
     }
     ul {
       list-style-type: square;
       padding-left: 1.5rem;
+      font-size: 0.7rem;
     }
     a {
-      color: #00f2ff;
+      color: #00ffc8;
       text-decoration: none;
+      font-size: 0.7rem;
     }
-    .badge-bar img {
-      margin-right: 0.3rem;
-      margin-bottom: 0.3rem;
+    .contact-links {
+      margin-top: 1rem;
+    }
+    .contact-links a {
+      display: block;
+      margin-bottom: 0.5rem;
+    }
+    .stats ul {
+      padding-left: 1.2rem;
     }
   </style>
 </head>
 <body>
   <div class="container">
     <div class="left-panel">
-      <img src="/mnt/data/A_hand-drawn_style_2D_digital_illustration_for_Sar.png" alt="Sarthak Verma">
-      <p><strong>Sarthak Verma</strong><br>Program Manager | AI Product Strategist</p>
-      <p>Solving real-world problems with code, data, and a product mindset.</p>
-      <ul>
-        <li>🎯 3+ Years PM Experience</li>
-        <li>💼 Worked with Capital One, Sabre</li>
-        <li>📊 5K+ Users Impacted</li>
-      </ul>
-      <p>
-        <a href="mailto:sarthak.verma@utdallas.edu">📧 Email</a><br>
-        <a href="https://www.linkedin.com/in/sarthakmverma">🔗 LinkedIn</a><br>
-        <a href="https://github.com/sarthakmverma">💾 GitHub</a>
+      <img src="/mnt/data/A_hand-drawn_style_2D_digital_illustration_for_Sar.png" alt="Avatar">
+      <p class="intro-text">
+        Program Manager & AI Strategist passionate about clean UX, scalable data products, and product thinking. Obsessed with impact.
       </p>
+      <div class="stats">
+        <ul>
+          <li>3+ Years PM Experience</li>
+          <li>Worked with Capital One, Sabre</li>
+          <li>5K+ Users Impacted</li>
+        </ul>
+      </div>
+      <div class="contact-links">
+        <a href="mailto:sarthak.verma@utdallas.edu">📧 Email</a>
+        <a href="https://www.linkedin.com/in/sarthakmverma">🔗 LinkedIn</a>
+        <a href="https://github.com/sarthakmverma">💾 GitHub</a>
+      </div>
     </div>
 
     <div class="right-panel">
+      <h1>Sarthak Verma</h1>
       <h2>Experience</h2>
 
       <h3>Sabre Corporation</h3>
