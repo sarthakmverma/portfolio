@@ -1,120 +1,121 @@
-### *Program Manager | AI Product Strategy | Analytics Execution*
-> Delivering scalable, insight-driven products with precision, data, and cross-functional leadership.
+import React from "react";
+import { Card, CardContent } from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
+import { Mail, Phone, Linkedin, Github, Globe } from "lucide-react";
 
----
+export default function Portfolio() {
+  return (
+    <div className="grid grid-cols-12 min-h-screen">
+      {/* Left Panel */}
+      <aside className="col-span-3 bg-gray-100 p-6 border-r border-gray-300">
+        <h1 className="text-2xl font-bold mb-2">Sarthak Verma</h1>
+        <p className="text-sm text-gray-600 mb-4">Dallas, TX | AI | Analytics | Product</p>
+        <ul className="space-y-2">
+          <li className="flex items-center gap-2 text-sm"><Linkedin size={16} /> <a href="https://www.linkedin.com/in/sarthakmverma" target="_blank">LinkedIn</a></li>
+          <li className="flex items-center gap-2 text-sm"><Github size={16} /> <a href="https://github.com/sarthakmverma" target="_blank">GitHub</a></li>
+          <li className="flex items-center gap-2 text-sm"><Globe size={16} /> <a href="https://sarthakmverma.github.io/portfolio" target="_blank">Portfolio</a></li>
+          <li className="flex items-center gap-2 text-sm"><Mail size={16} /> sarthak.verma@utdallas.edu</li>
+          <li className="flex items-center gap-2 text-sm"><Phone size={16} /> 945-274-8299</li>
+        </ul>
+      </aside>
 
-## 🧭 Summary
-Product-minded program manager with a strong background in AI, analytics, and cloud infrastructure. Experienced in delivering high-impact solutions across client onboarding, payment platforms, and data-intensive systems. Proven record working with teams at Sabre, Capital One, and early-stage ventures — always focused on shipping user-centered products and driving measurable business outcomes.
+      {/* Main Content */}
+      <main className="col-span-9 p-8 space-y-8 overflow-y-auto">
+        <section>
+          <h2 className="text-xl font-semibold mb-2">About Me</h2>
+          <p className="text-gray-700">Product-minded program manager focused on AI-driven innovation, analytics execution, and seamless digital experiences. Experienced in transforming business needs into scalable solutions through a blend of technical depth and strategic product thinking. Built payment platforms, onboarding flows, and BI systems across Sabre, Capital One, and startups. I thrive at the intersection of data, design, and delivery.</p>
+        </section>
 
----
+        <section>
+          <h2 className="text-xl font-semibold mb-2">Skills</h2>
+          <div className="space-y-2">
+            <div>
+              <h3 className="font-medium">Data & Analytics</h3>
+              <div className="flex flex-wrap gap-2">
+                <Badge>Python</Badge><Badge>R</Badge><Badge>SQL</Badge><Badge>TensorFlow</Badge><Badge>SAS</Badge><Badge>Power BI</Badge><Badge>Tableau</Badge>
+              </div>
+            </div>
+            <div>
+              <h3 className="font-medium">Cloud & Infra</h3>
+              <div className="flex flex-wrap gap-2">
+                <Badge>AWS</Badge><Badge>GCP</Badge><Badge>Snowflake</Badge><Badge>MongoDB</Badge>
+              </div>
+            </div>
+            <div>
+              <h3 className="font-medium">Product Tools</h3>
+              <div className="flex flex-wrap gap-2">
+                <Badge>Jira</Badge><Badge>Confluence</Badge><Badge>Figma</Badge><Badge>Alteryx</Badge><Badge>Excel</Badge>
+              </div>
+            </div>
+          </div>
+        </section>
 
-## ⚙️ Technical Skills
+        <section>
+          <h2 className="text-xl font-semibold mb-2">Experience</h2>
+          <Card>
+            <CardContent className="pt-4">
+              <h3 className="font-bold">Sabre Corporation – Program Analytics Intern</h3>
+              <p className="text-sm text-gray-600">May–Aug 2024</p>
+              <ul className="list-disc list-inside mt-2 text-gray-700">
+                <li>Boosted booking efficiency by 15% using SQL on GDS data</li>
+                <li>Developed Power BI dashboards, cutting reporting lag by 30%</li>
+                <li>Built forecasting models, improving prediction accuracy by 20%</li>
+              </ul>
+            </CardContent>
+          </Card>
+          <Card>
+            <CardContent className="pt-4">
+              <h3 className="font-bold">Capgemini @ Capital One – Program Manager</h3>
+              <p className="text-sm text-gray-600">Jun 2021 – Jun 2023</p>
+              <ul className="list-disc list-inside mt-2 text-gray-700">
+                <li>Reduced onboarding time by 20% using automation</li>
+                <li>Analyzed 150K+ records with TensorFlow/SAS to detect fraud</li>
+                <li>Closed $6M+ revenue via stakeholder demos and GTM</li>
+              </ul>
+            </CardContent>
+          </Card>
+          <Card>
+            <CardContent className="pt-4">
+              <h3 className="font-bold">The Mohh – Program Manager</h3>
+              <p className="text-sm text-gray-600">Jun 2018 – Jun 2021</p>
+              <ul className="list-disc list-inside mt-2 text-gray-700">
+                <li>Led sprints to develop real-time payment dashboards</li>
+                <li>Built compliant features for secure payment visibility</li>
+                <li>Collaborated with engineers to improve client UX</li>
+              </ul>
+            </CardContent>
+          </Card>
+        </section>
 
-### 🧪 **Data & Analytics**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-1A1A1A?style=for-the-badge&logo=sas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+        <section>
+          <h2 className="text-xl font-semibold mb-2">Projects</h2>
+          <ul className="list-disc list-inside text-gray-700">
+            <li><strong>BullsI:</strong> Built real-time AI alert system for schools, saving $10K/incident</li>
+            <li><strong>Digital Onboarding:</strong> Created platform scaling to 5K+ users with 10% MoM growth</li>
+          </ul>
+        </section>
 
-### 🌐 **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-F57C00?style=for-the-badge&logo=googlecloud&logoColor=white)
+        <section>
+          <h2 className="text-xl font-semibold mb-2">Education</h2>
+          <p className="text-gray-700">M.S. Business Analytics & AI, UTD (2023–2025)<br/>B.E. ECE, SVVV Indore (2016–2020)</p>
+        </section>
 
-### 🧠 **Product & PM Tools**
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Alteryx](https://img.shields.io/badge/Alteryx-276DC3?style=for-the-badge&logo=alteryx&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+        <section>
+          <h2 className="text-xl font-semibold mb-2">Awards & Certifications</h2>
+          <ul className="list-disc list-inside text-gray-700">
+            <li>Hosted UTD career fair with 12+ companies</li>
+            <li>"Most Innovative Product" – Capgemini POC</li>
+            <li>CSPO®, GenAI for PMs, Pendo Product Analytics, Alteryx, Deep Learning</li>
+          </ul>
+        </section>
 
----
-
-## 🎓 Education
-
-- **M.S. Business Analytics & AI**  
-  _University of Texas at Dallas (2023–2025)_  
-  Dean’s Excellence Scholar  
-  Courses: AWS Architecture • Digital Product Management • ML • NLP • Big Data
-
-- **B.E. Electronics & Communication Engineering**  
-  _SVVV, Indore (2016–2020)_
-
----
-
-## 💼 Experience
-
-### **Sabre Corporation**  
-**Program Analytics Intern – Client Connectivity & BI**  
-*May 2024 – Aug 2024*  
-Dallas, TX | Hybrid
-
-- Used SQL on GDS data to improve booking insights by **15%**
-- Developed Power BI dashboards for leadership, reducing reporting lag by **30%**
-- Built forecasting models for travel trends, increasing accuracy by **20%**
-
----
-
-### **Capgemini @ Capital One**  
-**Program Manager – Digital Payments & BI Solutions**  
-*Jun 2021 – Jun 2023*  
-Remote | U.S. Market
-
-- Streamlined onboarding for payment clients, improving task efficiency by **20%**
-- Used TensorFlow/SAS to analyze **150K+ records**, enhancing fraud detection by **45%**
-- Delivered product demos and closed $6M+ through GTM & stakeholder engagement
-
----
-
-### **The Mohh (Co-Founder)**  
-**Program Manager – Payment Dashboards & UX**  
-*Jun 2018 – Jun 2021*  
-Indore, India
-
-- Defined product specs and user stories for real-time payment visibility tools
-- Worked with engineering teams to develop intuitive interfaces and compliant workflows
-- Drove agile sprint cycles to release secure, integrated client-side features
-
----
-
-## 🚀 Projects
-
-### **BullsI – AI-Based Anti-Cyberbullying App**
-- Built real-time alert system piloted in Dallas-area schools
-- Developed B2B pricing model saving $10K/incident; secured early institutional traction
-
-### **Digital Client Onboarding & API Access Flow**
-- Created platform enabling relocation listings via WhatsApp/Facebook without group access
-- Scaled to **5K+ users**, integrated logistics modules, and achieved **10% MoM growth**
-
----
-
-## 🏅 Leadership & Recognition
-
-- Hosted a career fair with 12+ firms for over 200 students
-- Awarded "Most Innovative Product" for chatbot POC presented to Capgemini CTO
-
----
-
-## 📬 Contact
-[LinkedIn](https://www.linkedin.com/in/sarthakmverma)  
-[GitHub](https://github.com/sarthakmverma)  
-[Portfolio](https://sarthakmverma.github.io/portfolio)  
-📧 sarthak.verma@utdallas.edu | 📞 945-274-8299
-
----
-
-### 👤 About Me (Left Panel Bio)
-**Program Manager | AI Product Strategist**  
-Solving real-world problems with code, data, and a product mindset. Obsessed with clean UX, shipping fast, and making insights actionable.
-
-📍 Dallas, TX  
-🎯 5+ Years PM Experience  
-💼 Worked with Capital One, Sabre  
-📊 5K+ Users Impacted
+        <footer className="pt-8">
+          <Button variant="outline" asChild>
+            <a href="https://sarthakmverma.github.io/portfolio/Sarthak_Verma_Resume.pdf" target="_blank">Download Resume</a>
+          </Button>
+        </footer>
+      </main>
+    </div>
+  );
+}
