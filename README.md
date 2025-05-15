@@ -9,18 +9,20 @@
   <style>
     body {
       font-family: 'Inter', sans-serif;
-      background-color: #fdfdfd;
+      background-color: #ffffff;
       color: #2c2c2c;
     }
-    .container {
+    .main-content {
       max-width: 960px;
+      margin: auto;
+      padding: 2rem 1rem;
     }
     .section-title {
-      font-size: 1.5rem;
+      font-size: 1.6rem;
       font-weight: 700;
       border-bottom: 2px solid #0d6efd;
-      margin-bottom: 1rem;
-      padding-bottom: 0.3rem;
+      margin-bottom: 1.2rem;
+      padding-bottom: 0.4rem;
     }
     .badge {
       margin: 0.2rem 0.4rem 0.2rem 0;
@@ -29,38 +31,44 @@
     .experience, .project {
       margin-bottom: 2rem;
     }
-    .intro {
-      margin-top: 2rem;
-    }
     header {
       text-align: center;
       margin-bottom: 3rem;
     }
     header img {
-      width: 130px;
+      width: 120px;
+      height: 120px;
       border-radius: 50%;
-      margin-top: 1rem;
-    }
-    .contact-icons img {
-      width: 22px;
-      margin-right: 10px;
+      object-fit: cover;
+      margin: 1rem 0;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     }
     .contact-section a {
       display: inline-block;
-      margin-right: 15px;
+      margin-right: 20px;
+      margin-top: 10px;
+    }
+    .text-muted {
+      color: #6c757d !important;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    h5 {
+      font-weight: 600;
     }
   </style>
 </head>
 <body>
-  <div class="container py-4">
+  <div class="main-content">
     <header>
       <h1 class="fw-bold">Sarthak Verma</h1>
       <p class="lead">Program Manager | AI Product Strategy | Analytics Execution</p>
-      <p class="text-muted">Driving product excellence with cross-functional leadership and data-driven execution.</p>
+      <p class="text-muted">Delivering scalable, insight-driven products through collaboration, data, and innovation.</p>
       <img src="https://avatars.githubusercontent.com/u/109367066?v=4" alt="Sarthak Verma Profile Picture">
     </header>
 
-    <section class="intro">
+    <section>
       <h2 class="section-title">Technical Skills</h2>
       <h6>🧰 Product & PM Tools</h6>
       <span class="badge bg-primary">Jira</span>
