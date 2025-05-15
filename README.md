@@ -1,161 +1,116 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Sarthak Verma | Program & Product Manager</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Inter', sans-serif;
-      background-color: #ffffff;
-      color: #2c2c2c;
-    }
-    .main-content {
-      max-width: 960px;
-      margin: auto;
-      padding: 2rem 1rem;
-    }
-    .section-title {
-      font-size: 1.6rem;
-      font-weight: 700;
-      border-bottom: 2px solid #0d6efd;
-      margin-bottom: 1.2rem;
-      padding-bottom: 0.4rem;
-    }
-    .badge {
-      margin: 0.2rem 0.4rem 0.2rem 0;
-      font-size: 0.85rem;
-    }
-    .experience, .project {
-      margin-bottom: 2rem;
-    }
-    header {
-      text-align: center;
-      margin-bottom: 3rem;
-    }
-    header img {
-      width: 120px;
-      height: 120px;
-      border-radius: 50%;
-      object-fit: cover;
-      margin: 1rem 0;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-    }
-    .contact-section a {
-      display: inline-block;
-      margin-right: 20px;
-      margin-top: 10px;
-    }
-    .text-muted {
-      color: #6c757d !important;
-    }
-    ul {
-      padding-left: 1.2rem;
-    }
-    h5 {
-      font-weight: 600;
-    }
-  </style>
-</head>
-<body>
-  <div class="main-content">
-    <header>
-      <h1 class="fw-bold">Sarthak Verma</h1>
-      <p class="lead">Program Manager | AI Product Strategy | Analytics Execution</p>
-      <p class="text-muted">Delivering scalable, insight-driven products through collaboration, data, and innovation.</p>
-      <img src="https://avatars.githubusercontent.com/u/109367066?v=4" alt="Sarthak Verma Profile Picture">
-    </header>
+# **Sarthak Verma**  
+### *Program Manager | AI Product Strategy | Analytics Execution*
 
-    <section>
-      <h2 class="section-title">Technical Skills</h2>
-      <h6>🧰 Product & PM Tools</h6>
-      <span class="badge bg-primary">Jira</span>
-      <span class="badge bg-primary">Confluence</span>
-      <span class="badge bg-primary">Figma</span>
-      <span class="badge bg-primary">Git</span>
+> Delivering scalable, insight-driven products with precision, data, and cross-functional leadership.
 
-      <h6 class="mt-3">📊 Data & Analytics</h6>
-      <span class="badge bg-success">Python</span>
-      <span class="badge bg-success">R</span>
-      <span class="badge bg-success">SQL</span>
-      <span class="badge bg-success">TensorFlow</span>
-      <span class="badge bg-success">SAS</span>
-      <span class="badge bg-success">Power BI</span>
-      <span class="badge bg-success">Tableau</span>
+---
 
-      <h6 class="mt-3">☁️ Cloud & Infrastructure</h6>
-      <span class="badge bg-warning text-dark">AWS</span>
-      <span class="badge bg-warning text-dark">Google Cloud</span>
-      <span class="badge bg-warning text-dark">Firestore</span>
-      <span class="badge bg-warning text-dark">Snowflake</span>
-      <span class="badge bg-warning text-dark">MongoDB</span>
-    </section>
+## 🧭 Summary
 
-    <section>
-      <h2 class="section-title">Education</h2>
-      <p><strong>M.S. Business Analytics & AI</strong>, University of Texas at Dallas, 2025<br>
-      <em>Dean’s Excellence Scholar | Courses: AWS Architecture, Product Management, ML</em></p>
-      <p><strong>B.E. Electronics & Communication Engineering</strong>, SVVV Indore, 2020</p>
-    </section>
+Product-minded program manager with a strong background in AI, analytics, and cloud infrastructure. Experienced in delivering high-impact solutions across client onboarding, payment platforms, and data-intensive systems. Proven record working with teams at Sabre, Capital One, and early-stage ventures — always focused on shipping user-centered products and driving measurable business outcomes.
 
-    <section>
-      <h2 class="section-title">Experience</h2>
-      <div class="experience">
-        <h5>Sabre Corporation – Program Analytics Intern</h5>
-        <p class="text-muted">May 2024 – Aug 2024</p>
-        <ul>
-          <li>Improved booking insight accuracy by 15% via SQL on GDS data</li>
-          <li>Built real-time dashboards in Power BI, cutting reporting lag by 30%</li>
-          <li>Forecasted travel trends with 20% greater accuracy using agile collaboration</li>
-        </ul>
-      </div>
-      <div class="experience">
-        <h5>Capgemini @ Capital One – Program Manager</h5>
-        <p class="text-muted">Jun 2021 – Jun 2023</p>
-        <ul>
-          <li>Automated onboarding workflows improving task throughput by 20%</li>
-          <li>Processed 150K+ records to detect fraud using TensorFlow/SAS (45% lift)</li>
-          <li>Led product demos and closed $6M+ in revenue with 3 key clients</li>
-        </ul>
-      </div>
-      <div class="experience">
-        <h5>The Mohh – Program Manager, Co-Founder</h5>
-        <p class="text-muted">Jun 2018 – Jun 2021</p>
-        <ul>
-          <li>Built real-time dashboards for payment visibility and client-side UX</li>
-          <li>Drove agile cycles to meet compliance & delivery targets</li>
-        </ul>
-      </div>
-    </section>
+---
 
-    <section>
-      <h2 class="section-title">Projects</h2>
-      <div class="project">
-        <h5>BullsI – Anti-Cyberbullying App</h5>
-        <p>Created real-time AI-based alerts piloted in schools; saved $10K/incident with pricing strategy and early stakeholder buy-in.</p>
-      </div>
-      <div class="project">
-        <h5>Digital Client Onboarding & API Access</h5>
-        <p>Launched listing/relocation platform on WhatsApp/Facebook, scaling to 5K+ users with logistics and API growth loops.</p>
-      </div>
-    </section>
+## ⚙️ Technical Skills
 
-    <section>
-      <h2 class="section-title">Leadership & Recognition</h2>
-      <ul>
-        <li>Organized university job fair with 12+ firms, 200+ participants</li>
-        <li>Won "Most Innovative Product" for chatbot presented to Capgemini CTO</li>
-      </ul>
-    </section>
+### 🧪 **Data & Analytics**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1A1A1A?style=for-the-badge&logo=sas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-    <section class="contact-section">
-      <h2 class="section-title">Contact</h2>
-      <a href="mailto:sarthak.verma@utdallas.edu">📧 sarthak.verma@utdallas.edu</a>
-      <a href="https://linkedin.com/in/sarthakmverma" target="_blank">🔗 LinkedIn</a>
-      <a href="https://github.com/sarthakmverma" target="_blank">💻 GitHub</a>
-    </section>
-  </div>
-</body>
-</html>
+---
+
+### 🌐 **Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-F57C00?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+### 🧠 **Product & PM Tools**
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-276DC3?style=for-the-badge&logo=alteryx&logoColor=white)
+![MS Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 🎓 Education
+
+- 🎓 **M.S. Business Analytics & AI**  
+  _University of Texas at Dallas (2023–2025)_  
+  *Dean’s Excellence Scholar*  
+  **Courses:** AWS Architecture • Digital Product Management • ML • NLP • Big Data
+
+- 🏫 **B.E. Electronics & Communication Engineering**  
+  _SVVV, Indore (2016–2020)_
+
+---
+
+## 💼 Experience
+
+### 🔹 **Sabre Corporation**  
+**Program Analytics Intern – Client Connectivity & BI**  
+*May 2024 – Aug 2024*
+
+- Used SQL on GDS data to improve booking insights by **15%**  
+- Developed Power BI dashboards for leadership, reducing reporting lag by **30%**  
+- Built forecasting models for travel trends, increasing accuracy by **20%**
+
+---
+
+### 🔹 **Capgemini @ Capital One**  
+**Program Manager – Digital Payments & BI Solutions**  
+*Jun 2021 – Jun 2023*
+
+- Streamlined onboarding for payment clients, improving task efficiency by **20%**  
+- Used TensorFlow/SAS to analyze **150K+ records**, enhancing fraud detection by **45%**  
+- Delivered product demos and closed $6M+ through GTM & stakeholder engagement
+
+---
+
+### 🔹 **The Mohh (Co-Founder)**  
+**Program Manager – Payment Dashboards & UX**  
+*Jun 2018 – Jun 2021*
+
+- Defined product specs and user stories for real-time payment visibility tools  
+- Worked with engineering teams to develop intuitive interfaces and compliant workflows  
+- Drove agile sprint cycles to release secure, integrated client-side features
+
+---
+
+## 🚀 Projects
+
+### 🧠 **BullsI – AI-Based Anti-Cyberbullying App**
+- Built real-time alert system piloted in Dallas-area schools  
+- Developed B2B pricing model saving $10K/incident; secured early institutional traction
+
+---
+
+### 🌐 **Digital Client Onboarding & API Access Flow**
+- Created platform enabling relocation listings via WhatsApp/Facebook without group access  
+- Scaled to **5K+ users**, integrated logistics modules, and achieved **10% MoM growth**
+
+---
+
+## 🏅 Leadership & Recognition
+
+- Hosted a **career fair with 12+ firms** for over **200 students**  
+- Awarded **Most Innovative Product** for chatbot POC presented to Capgemini CTO
+
+---
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthakmverma)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarthakmverma)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://sarthakmverma.github.io/portfolio)  
+[📧 sarthak.verma@utdallas.edu](mailto:sarthak.verma@utdallas.edu) | 📞 945-274-8299
