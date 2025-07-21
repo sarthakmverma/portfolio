@@ -1,38 +1,35 @@
-### *Program Manager | AI Product Strategy | Analytics Execution*
-> Delivering scalable, insight-driven products with precision, data, and cross-functional leadership.
+# Financial Analyst | Product Strategy | Data-Driven Decisioning  
+> Bridging finance, analytics, and scalable tools to deliver measurable business value across global operations.
 
 ---
 
-## 🧭 Summary
-Product-minded program manager with a strong background in AI, analytics, and cloud infrastructure. Experienced in delivering high-impact solutions across client onboarding, payment platforms, and data-intensive systems. Proven record working with teams at Sabre, Capital One, and early-stage ventures — always focused on shipping user-centered products and driving measurable business outcomes.
+## 🧭 Summary  
+Finance-focused analyst with a strong foundation in data analytics, product reporting, and operational forecasting. Experienced in leading insights for $1B+ in revenue, building dashboards, automating pipelines, and influencing executive planning at companies like Sabre and Capgemini. Passionate about applying data to solve real business problems, improve financial accuracy, and drive strategic decision-making.
 
 ---
 
 ## ⚙️ Technical Skills
 
-### 🧪 **Data & Analytics**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-1A1A1A?style=for-the-badge&logo=sas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-### 🌐 **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-F57C00?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-### 🧠 **Product & PM Tools**
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Alteryx](https://img.shields.io/badge/Alteryx-276DC3?style=for-the-badge&logo=alteryx&logoColor=white)
+### 🧪 Data & Analytics  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Looker](https://img.shields.io/badge/Looker-0052CC?style=for-the-badge&logo=looker&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### ☁️ Cloud & Infrastructure  
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)  
+![Oracle Essbase](https://img.shields.io/badge/Oracle_Essbase-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🧠 Product & PM Tools  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)  
+![Think-Cell](https://img.shields.io/badge/Think_Cell-00B140?style=for-the-badge&logo=datawrapper&logoColor=white)  
+![Smartsheet](https://img.shields.io/badge/Smartsheet-0078D7?style=for-the-badge&logo=smartsheet&logoColor=white)
 
 ---
 
@@ -41,7 +38,7 @@ Product-minded program manager with a strong background in AI, analytics, and cl
 - **M.S. Business Analytics & AI**  
   _University of Texas at Dallas (2023–2025)_  
   Dean’s Excellence Scholar  
-  Courses: AWS Architecture • Digital Product Management • ML • NLP • Big Data
+  Courses: Forecasting · Digital Product Management · Big Data · ML · Business Systems  
 
 - **B.E. Electronics & Communication Engineering**  
   _SVVV, Indore (2016–2020)_
@@ -51,58 +48,58 @@ Product-minded program manager with a strong background in AI, analytics, and cl
 ## 💼 Experience
 
 ### **Sabre Corporation**  
-**Program Analytics Intern – Client Connectivity & BI**  
-*May 2024 – Aug 2024*  
-Dallas, TX | Hybrid
-
-- Used SQL on GDS data to improve booking insights by **15%**
-- Developed Power BI dashboards for leadership, reducing reporting lag by **30%**
-- Built forecasting models for travel trends, increasing accuracy by **20%**
-
----
-
-### **Capgemini @ Capital One**  
-**Program Manager – Digital Payments & BI Solutions**  
-*Jun 2021 – Jun 2023*  
-Remote | U.S. Market
-
-- Streamlined onboarding for payment clients, improving task efficiency by **20%**
-- Used TensorFlow/SAS to analyze **150K+ records**, enhancing fraud detection by **45%**
-- Delivered product demos and closed $6M+ through GTM & stakeholder engagement
+**Software Developer Intern – GDS Revenue Strategy**  
+*May 2024 – Aug 2024 · Dallas, TX (Hybrid)*  
+- Led variance analysis across $1B+ GDS revenue, improving forecasting accuracy by 20%  
+- Built 15+ KPI dashboards using Power BI and Excel, reducing reporting turnaround by 30%  
+- Automated SQL workflows and close reconciliations, cutting cycle time by 25%  
+- Collaborated with accounting teams on contract validation and journal entry alignment  
+- Delivered Think-Cell visuals and executive-level insights for regional pricing strategies  
 
 ---
 
-### **The Mohh (Co-Founder)**  
-**Program Manager – Payment Dashboards & UX**  
-*Jun 2018 – Jun 2021*  
-Indore, India
+### **Capgemini (Client: Mastercard / Capital One)**  
+**Financial Analyst – Payments & Business Intelligence**  
+*Jun 2021 – Jun 2023 · Remote*  
+- Created multi-year forecast models across 12 markets, improving reliability by 22%  
+- Built campaign ROI dashboards in Looker and Tableau, shortening decision timelines by 30%  
+- Produced 50+ ad hoc reports to support stakeholder meetings and business reviews  
+- Integrated SAP/BO systems for 4 client portfolios, streamlining audit compliance workflows  
+- Partnered with FP&A teams on $10M+ projects to support reporting and operational KPIs  
 
-- Defined product specs and user stories for real-time payment visibility tools
-- Worked with engineering teams to develop intuitive interfaces and compliant workflows
-- Drove agile sprint cycles to release secure, integrated client-side features
+---
+
+### **The Mohh**  
+**Co-Founder – Reporting Infrastructure & Strategy**  
+*Jun 2018 – Jun 2021 · Noida, India*  
+- Developed dashboards to track $2M+ in revenue and support faster financial planning cycles  
+- Built Python-SQL pipelines to forecast $500K+ in compensation and reduce manual error  
+- Modeled cost scenarios and vendor contracts to inform executive decision-making  
+- Supported journal entry accuracy and quarterly close timelines through reconciliations  
+- Reduced reporting errors by 40% by implementing audit-ready data checks and logic  
 
 ---
 
 ## 🚀 Projects
 
-### **BullsI – AI-Based Anti-Cyberbullying App**
-- Built real-time alert system piloted in Dallas-area schools
-- Developed B2B pricing model saving $10K/incident; secured early institutional traction
+### **BullsI – AI-Powered Anti-Cyberbullying Platform**  
+- Built Power BI dashboards analyzing 500K+ abuse flags and trained classifiers on 1M+ posts  
+- Improved detection accuracy by 28% and enabled monthly safety audits for schools  
 
-### **Digital Client Onboarding & API Access Flow**
-- Created platform enabling relocation listings via WhatsApp/Facebook without group access
-- Scaled to **5K+ users**, integrated logistics modules, and achieved **10% MoM growth**
-
----
-
-## 🏅 Leadership & Recognition
-
-- Hosted a career fair with 12+ firms for over 200 students
-- Awarded "Most Innovative Product" for chatbot POC presented to Capgemini CTO
+### **Marketly – Relocation & API-Driven Marketplace**  
+- Launched GTM plan tracking 10% MoM growth, reduced CAC by 22% across 3 rollouts  
+- Built self-service reporting for 2K+ listings, eliminating 80% of manual reporting effort  
 
 ---
 
-## 📬 Contact
+## 🏅 Leadership & Recognition  
+- Dean’s Excellence Scholar, UT Dallas  
+- Organized data-focused career fair for 200+ students with 12 hiring companies  
+- Awarded “Most Innovative Product” for AI chatbot demo at Capgemini showcase  
+
+---
+
+## 📬 Contact  
 [LinkedIn](https://www.linkedin.com/in/sarthakmverma)  
 [GitHub](https://github.com/sarthakmverma)  
 [Portfolio](https://sarthakmverma.github.io/portfolio)  
