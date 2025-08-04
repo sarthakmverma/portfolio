@@ -1,5 +1,3 @@
-# Hi, I'm Sarthak Verma
-
 **Actively Seeking Full-Time Roles**  
 Product • Analytics • Technical Program Management • Software Development  
 M.S. Business Analytics & Artificial Intelligence – UT Dallas (Dean’s Excellence Scholar)  
