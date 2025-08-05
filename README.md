@@ -1,6 +1,6 @@
 **Actively Seeking Full-Time Roles**  
 Product • Analytics • Technical Program Management • Software Development  
-M.S. Business Analytics & Artificial Intelligence – UT Dallas (Dean’s Excellence Scholar)  
+M.S. Business Analytics & Artificial Intelligence – The University of Texas at Dallas (Dean’s Excellence Scholar)  
 Ex-Sabre | Ex-Capgemini | Python • Power BI • LangChain • SQL • LLMs • NLP • Azure • Agile
 
 ---
