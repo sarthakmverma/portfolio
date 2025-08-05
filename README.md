@@ -1,6 +1,6 @@
 **Actively Seeking Full-Time Roles**  
 Product • Analytics • Technical Program Management • Software Development  
-**M.S. Business Analytics & Artificial Intelligence** — University Of Texas At Dallas *(Dean’s Excellence Scholar)*  
+**M.S. Business Analytics & Artificial Intelligence** — The University of Texas at Dallas *(Dean’s Excellence Scholar)*  
 **Ex:** Sabre | Capgemini  
 **Tech Stack:** Python • Power BI • LangChain • SQL • LLMs • NLP • Azure • Agile  
 
@@ -72,28 +72,28 @@ Built a large language model agent that dynamically selects the best tool for a 
 
 ### ![Sabre](https://img.shields.io/badge/-Sabre-E32227?logo=sabre&logoColor=white&style=flat-square) Software Developer Intern  
 **May 2024 – Aug 2024**  
-- Built Power BI dashboards to provide real-time visibility into global bookings (reduced report time by 30%)  
-- Analyzed 500K+ multilingual booking records to surface UX improvement insights (improved funnel by 15%)  
-- Automated reporting workflows using Python and Power Query (cut manual effort by 25%)  
-- Delivered metrics and dashboards that supported OKRs and roadmap planning
+• Built Power BI dashboards to provide real-time visibility into global bookings (reduced report time by 30%)  
+• Analyzed 500K+ multilingual booking records to identify UX drop-offs (improved funnel by 15%)  
+• Automated reporting workflows using Python and Power Query (cut manual effort by 25%)  
+• Delivered executive dashboards and metrics impacting product OKRs
 
 ### ![Capgemini](https://img.shields.io/badge/-Capgemini-0066A1?logo=capgemini&logoColor=white&style=flat-square) Senior Analyst  
 **Jul 2022 – Jun 2023**  
-- Led fraud detection modeling for Capital One’s SMB credit card platform  
-- Reduced false positives by 30% using TensorFlow and near-real-time monitoring  
-- Built predictive dashboards that influenced campaign strategy and feature rollout  
+• Led fraud detection modeling for Capital One’s SMB credit card platform  
+• Reduced false positives by 30% using TensorFlow and near-real-time monitoring  
+• Built predictive dashboards that influenced campaign strategy and feature rollout  
 
 ### ![Capgemini](https://img.shields.io/badge/-Capgemini-0066A1?logo=capgemini&logoColor=white&style=flat-square) Analyst / Software Engineer  
 **Jun 2021 – Jul 2022**  
-- Built SQL-based ETL pipelines and automated business reporting  
-- Developed Tableau dashboards to analyze credit usage and behavior trends  
-- Implemented QA validation scripts in Python to enhance model precision and speed  
+• Built SQL-based ETL pipelines and automated business reporting  
+• Developed Tableau dashboards to analyze credit usage and behavior trends  
+• Implemented QA validation scripts in Python to enhance model precision and speed  
 
-### The Mohh — Founding Member  
+### ![The Mohh](https://img.shields.io/badge/-The%20Mohh-333333?style=flat-square) Founding Member  
 **Jun 2018 – Jun 2021**  
-- Built and deployed 3 low-cost digital learning platforms for underserved schools  
-- Led end-to-end product design, client onboarding, and implementation across 12+ institutions  
-- Delivered RFID-based school management tools under agile methodology  
+• Built and deployed 3 low-cost digital learning platforms for underserved schools  
+• Managed product lifecycle, partner integrations, and client relationships for 12+ institutions  
+• Delivered RFID-based school management tools under agile methodology  
 
 ---
 
