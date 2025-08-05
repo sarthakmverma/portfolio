@@ -1,98 +1,129 @@
 **Actively Seeking Full-Time Roles**  
 Product • Analytics • Technical Program Management • Software Development  
-M.S. Business Analytics & Artificial Intelligence – The University of Texas at Dallas (Dean’s Excellence Scholar)  
-Ex-Sabre | Ex-Capgemini | Python • Power BI • LangChain • SQL • LLMs • NLP • Azure • Agile
+**M.S. Business Analytics & Artificial Intelligence – UT Dallas** (Dean’s Excellence Scholar)  
+**Ex:** Sabre | Capgemini  
+**Tech:** Python • Power BI • LangChain • SQL • LLMs • NLP • Azure • Agile  
 
 ---
 
 ## About Me
 
-I'm a cross-functional professional with 5+ years of experience across analytics, engineering, and product roles. With a unique blend of hands-on development, stakeholder management, and AI experimentation, I build data-informed products that scale and deliver measurable impact.
+I'm a cross-functional professional with 5+ years of experience in analytics, engineering, and product roles. I blend technical development with strategic thinking and stakeholder engagement to create AI-driven, scalable solutions that generate real business impact.
 
 ---
 
-## Projects
+## Featured Projects
 
-- **BullsI** – Co-founded an AI-powered anti-cyberbullying mobile app using real-time NLP alerts. Piloted in Dallas schools and reduced incident response time by 40%.  
-   [Watch Pitch Video](https://www.youtube.com/watch?v=rI-G7rvBfsI)
+### BullsI – Cyberbullying Prevention App  
+AI-powered mobile app using real-time NLP alerts to prevent cyberbullying. Piloted in Dallas-area schools; reduced incident response time by 40%.  
+**PDF:** [View Project](projects/BullsI_CyberbullyingApp.pdf)
 
-- **Marketly** – Designed and launched a relocation marketplace with eCommerce onboarding and delivery options. Scaled to 5K+ users and achieved 10% MoM growth via GTM campaigns.
+---
 
-- **Fashion Finder** – Developed an AI-powered app that recognizes clothing items from photos and recommends similar styles using image recognition and price comparison APIs.
+### Marketly – Relocation Marketplace  
+Built a hyperlocal platform to help movers buy/sell essentials with logistics support. Scaled to 5K+ users and 10% MoM growth.  
+**PDF:** [View Project](projects/Marketly_RelocationMarketplace.pdf)
 
-- **Healthcare Pricing Tool** – Built an Azure + Databricks pipeline to analyze 2M+ U.S. hospital pricing records, enabling transparent comparisons across procedures and hospitals.
+---
 
-- **Nike BI Dashboards** – Led a team project to create Tableau/Excel dashboards visualizing customer engagement, revenue, and funnel KPIs across channels and demographics.
+### Fashion Finder – AI Fashion Assistant  
+Mobile app using image recognition, price comparison APIs, and AI-powered styling to make shopping smarter.  
+**PDF:** [View Project](projects/Fashion%20Finder%20Application%20Presentation.pdf)
 
-- **LLM Project** – Engineered an analytics pipeline using multilingual booking data and LLM-enhanced dashboards to optimize booking UX and decision-making for executives.  
-   [Watch Project Demo](https://www.youtube.com/watch?v=a5zJ5fV4BR0)
+---
+
+### Healthcare Pricing Tool – Azure + Databricks  
+Analyzed 2.2M hospital pricing records to uncover trends and improve transparency across procedures and providers.  
+**PDF:** [View Project](projects/Helathcare_Project.pdf)
+
+---
+
+### Nike Analytics – BI Dashboard Project  
+Built dashboards to analyze Nike customer engagement, marketing channels, funnel conversion, and KPIs.  
+**PDF:** [View Project](projects/Nike_analytics.pdf)
+
+---
+
+### Customer Churn Prediction  
+Used ML models including logistic regression, decision trees, and boosting to predict telecom churn (80.7% accuracy).  
+**PDF:** [View Project](projects/ChurnPrediction_AnalyticsProject.pptx)
+
+---
+
+### Barça Innovation Hub Strategy  
+Consulting case for FC Barcelona’s innovation ecosystem, exploring startup collaboration, impact metrics, and branding.  
+**PDF:** [View Project](projects/Barca%20Innovation%20Hub.pdf)
+
+---
+
+### SolarNet – Smart Solar Forecasting  
+Developed an AI-based forecasting tool using sky image analysis for real-time solar energy output prediction.  
+**PDF:** [View Project](projects/SolarNet%20.pdf)
 
 ---
 
 ## Experience
 
-### **Software Developer Intern** – *Sabre Corporation*  
+### Software Developer Intern – Sabre Corporation  
 **May 2024 – Aug 2024 | Southlake, TX (Hybrid)**  
-- Built Power BI dashboards for executive visibility across global booking systems, reducing report generation time by 30%.  
-- Conducted data analysis on 500K+ booking records using SQL to identify language-specific booking errors, improving UX by 15%.  
-- Automated recurring reporting workflows using Power Query and Python, reducing manual workload by 25%.  
-- Delivered multilingual user flow insights that shaped product roadmap discussions and metric OKRs in EMEA.  
--  [Featured LLM Project Video](https://www.youtube.com/watch?v=a5zJ5fV4BR0)
+- Built Power BI dashboards to monitor global booking systems, reducing reporting time by 30%  
+- Analyzed 500K+ multilingual booking records using SQL, leading to a 15% UX improvement  
+- Automated recurring reports via Power Query and Python, saving 25% manual effort  
+- Delivered executive dashboards powered by LLMs and multilingual UX insights  
+**Demo:** [Watch Project](https://www.youtube.com/watch?v=a5zJ5fV4BR0)
 
 ---
 
-### **Senior Analyst** – *Capgemini*  
+### Senior Analyst – Capgemini  
 **Jul 2022 – Jun 2023 | Bengaluru, India**  
-- Spearheaded analytics for Capital One’s SMB credit card product, using real-time fraud detection modeling to enhance platform security and trust.  
-- Processed 150K+ transactions with TensorFlow and SAS, reducing false positives by 30% and improving user satisfaction by 45%.  
-- Designed performance dashboards and delivered predictive insights that influenced campaign targeting and product improvements.  
-- Automated client onboarding and internal reporting pipelines, cutting integration lead time by 20%.
+- Developed fraud detection models for Capital One’s SMB credit card product  
+- Reduced false positives by 30% using TensorFlow and real-time processing pipelines  
+- Built campaign performance dashboards; optimized targeting strategies  
 
 ---
 
-### **Analyst / Software Engineer** – *Capgemini*  
+### Analyst / Software Engineer – Capgemini  
 **Jun 2021 – Jul 2022 | Bengaluru, India**  
-- Developed ETL pipelines and SQL logic to automate reporting across transactional workflows.  
-- Built Tableau and Excel dashboards to track user behavior and credit usage KPIs, accelerating business decisions by 25%.  
-- Created validation logic and automation scripts in Python to improve model precision and reduce QA cycles.  
-- Supported release management and sprint planning, ensuring compliance-aligned feature delivery across teams.
+- Automated ETL pipelines and SQL workflows for enterprise reporting  
+- Created Tableau/Excel dashboards to visualize customer credit usage KPIs  
+- Wrote Python validation scripts to reduce model QA cycles  
 
 ---
 
-### **Founding Member** – *The Mohh*  
+### Founding Member – The Mohh  
 **Jun 2018 – Jun 2021 | India**  
-- Led the development of school and learning management systems using RFID and Scrum methodology.  
-- Built affordable digital infrastructure for underprivileged learners by launching 3 scalable education platforms.  
-- Oversaw product strategy, business development, and client relationship management across 12+ institutions.  
-- Championed social impact through tech-enabled access to education and tools for marginalized communities.
+- Launched scalable digital learning systems for under-resourced institutions  
+- Managed end-to-end product development and stakeholder alignment for 12+ schools  
+- Focused on bridging educational gaps through affordable digital access  
 
 ---
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square)
-![LLMs](https://img.shields.io/badge/-LLMs-red?style=flat-square)
-![NLP](https://img.shields.io/badge/-NLP-blueviolet?style=flat-square)
-![Databricks](https://img.shields.io/badge/-Databricks-E62B1E?logo=databricks&logoColor=white&style=flat-square)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Agile](https://img.shields.io/badge/-Agile-0052CC?style=flat-square)
+| Language/Tool     | Skill Level |
+|------------------|-------------|
+| Python           | Advanced    |
+| SQL              | Advanced    |
+| Power BI         | Advanced    |
+| LangChain        | Intermediate|
+| LLMs / NLP       | Intermediate|
+| Databricks       | Intermediate|
+| Azure            | Intermediate|
+| Tableau          | Advanced    |
+| Git              | Advanced    |
+| Agile / Scrum    | Advanced    |
 
 ---
 
 ## GitHub Stats
 
 ![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakmverma&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakmverma&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakmverma&layout=compact)
 
 ---
 
-## Let's Connect
+## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/sarthakmverma/)  
-- [Portfolio](https://sarthakmverma.github.io/)  
-- 📧 Email: sarthak.verma@utdallas.edu
+**LinkedIn:** [linkedin.com/in/sarthakmverma](https://www.linkedin.com/in/sarthakmverma/)  
+**Portfolio:** [sarthakmverma.github.io](https://sarthakmverma.github.io/)  
+**Email:** [sarthak.verma@utdallas.edu](mailto:sarthak.verma@utdallas.edu)
