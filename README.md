@@ -1,14 +1,14 @@
-# Sarthak Verma
-
 **Actively Seeking Full-Time Roles**  
 Product • Analytics • Technical Program Management • Software Development  
-**M.S. Business Analytics & Artificial Intelligence** — UT Dallas *(Dean’s Excellence Scholar)*  
+**M.S. Business Analytics & Artificial Intelligence** — University Of Texas At Dallas *(Dean’s Excellence Scholar)*  
 **Ex:** Sabre | Capgemini  
+**Tech Stack:** Python • Power BI • LangChain • SQL • LLMs • NLP • Azure • Agile  
+
 ---
 
 ## About Me
 
-I am a cross-functional professional with 5+ years of experience in analytics, engineering, and product development. I specialize in building intelligent, scalable systems backed by AI/ML, business insights, and user-centered design. My work bridges data, strategy, and execution to create measurable impact.
+I am a cross-functional professional with 5+ years of experience across analytics, engineering, and product development. I specialize in building intelligent, scalable systems backed by AI/ML, business insights, and user-centered design. My work bridges data, strategy, and execution to create measurable business outcomes.
 
 ---
 
@@ -46,12 +46,9 @@ Consulting study exploring FC Barcelona's global innovation platform, startup ec
 Developed an AI-powered solar output forecasting solution using sky image analysis. Provided hourly prediction accuracy for power grids.  
 [View PDF](projects/SolarNet%20.pdf)
 
----
-
-## Standout Project at Sabre
-
-**LLM Booking Insights Dashboard**  
-Developed a multilingual analytics pipeline combining booking system data and large language models (LLMs). The solution powered executive dashboards and influenced OKRs across EMEA markets. Delivered real-time UX insights and shaped product roadmap discussions.
+**LLM Multi-Tool Agent — Sabre Project**  
+Built a large language model agent that dynamically selects the best tool for a given task — including calculator, code interpreter, web search, or PDF summarizer.  
+[Watch Project Demo](https://www.youtube.com/watch?v=a5zJ5fV4BR0)
 
 ---
 
@@ -73,30 +70,30 @@ Developed a multilingual analytics pipeline combining booking system data and la
 
 ## Experience
 
-### Software Developer Intern — Sabre Corporation  
-**May 2024 – Aug 2024 | Southlake, TX (Hybrid)**  
-- Built Power BI dashboards for real-time insights into booking systems (reduced report gen time by 30%)  
-- Analyzed 500K+ multilingual booking records to identify UX drop-offs (improved funnel by 15%)  
-- Automated reporting workflows with Python and Power Query (cut manual effort by 25%)  
-- Delivered executive dashboards and metrics impacting product OKRs
+### ![Sabre](https://img.shields.io/badge/-Sabre-E32227?logo=sabre&logoColor=white&style=flat-square) Software Developer Intern  
+**May 2024 – Aug 2024**  
+- Built Power BI dashboards to provide real-time visibility into global bookings (reduced report time by 30%)  
+- Analyzed 500K+ multilingual booking records to surface UX improvement insights (improved funnel by 15%)  
+- Automated reporting workflows using Python and Power Query (cut manual effort by 25%)  
+- Delivered metrics and dashboards that supported OKRs and roadmap planning
 
-### Senior Analyst — Capgemini  
-**Jul 2022 – Jun 2023 | Bengaluru, India**  
-- Led fraud detection modeling for Capital One SMB credit cards using TensorFlow  
-- Reduced false positives by 30% and improved user trust and satisfaction metrics  
-- Built dashboards and ML pipelines to support campaign and product optimization
+### ![Capgemini](https://img.shields.io/badge/-Capgemini-0066A1?logo=capgemini&logoColor=white&style=flat-square) Senior Analyst  
+**Jul 2022 – Jun 2023**  
+- Led fraud detection modeling for Capital One’s SMB credit card platform  
+- Reduced false positives by 30% using TensorFlow and near-real-time monitoring  
+- Built predictive dashboards that influenced campaign strategy and feature rollout  
 
-### Analyst / Software Engineer — Capgemini  
-**Jun 2021 – Jul 2022 | Bengaluru, India**  
-- Designed ETL workflows using SQL and built user behavior dashboards in Tableau  
-- Created validation logic and QA automation with Python to enhance model reliability  
-- Participated in sprint planning, ensuring delivery of compliance-driven features
+### ![Capgemini](https://img.shields.io/badge/-Capgemini-0066A1?logo=capgemini&logoColor=white&style=flat-square) Analyst / Software Engineer  
+**Jun 2021 – Jul 2022**  
+- Built SQL-based ETL pipelines and automated business reporting  
+- Developed Tableau dashboards to analyze credit usage and behavior trends  
+- Implemented QA validation scripts in Python to enhance model precision and speed  
 
-### Founding Member — The Mohh  
-**Jun 2018 – Jun 2021 | India**  
-- Built 3 digital education platforms targeting low-income schools  
-- Managed product lifecycle, partner integrations, and client relationships for 12+ institutions  
-- Deployed RFID-based LMS platforms for attendance and personalized learning  
+### The Mohh — Founding Member  
+**Jun 2018 – Jun 2021**  
+- Built and deployed 3 low-cost digital learning platforms for underserved schools  
+- Led end-to-end product design, client onboarding, and implementation across 12+ institutions  
+- Delivered RFID-based school management tools under agile methodology  
 
 ---
 
