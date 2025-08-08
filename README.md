@@ -78,7 +78,7 @@ Built a large language model agent that dynamically selects the best tool for a 
 - Facilitated cross-functional collaboration between product and engineering teams, accelerating delivery of high-impact features and resolving workflow roadblocks to improve team velocity by 20%.
 
 
-### ![Capital One](https://img.shields.io/badge/-Capgemini-0066A1?logo=capgemini&logoColor=white&style=flat-square) Product Owner  
+### ![Capital One](https://img.shields.io/badge/-Capital%20One-004481?logo=capitalone&logoColor=white&style=flat-square) Product Owner
 **Jul 2022 – Jun 2023**  
 - Spearheaded the transition to product-based agile squads by developing a comprehensive framework that aligned engineering, marketing, and sales teams with business goals, resulting in a 20% faster product release cycle.
 - Created and maintained playbooks for key product development epics, ensuring consistent execution across teams and improving onboarding speed for new team members by 30%.
@@ -86,7 +86,7 @@ Built a large language model agent that dynamically selects the best tool for a 
 - Leveraged qualitative feedback from 50+ SME clients to refine onboarding workflows, driving a 20% improvement in user activation within the first week.
 
 
-### ![Capital One](https://img.shields.io/badge/-Capgemini-0066A1?logo=capgemini&logoColor=white&style=flat-square) Program Manager 
+### ![Capital One](https://img.shields.io/badge/-Capital%20One-004481?logo=capitalone&logoColor=white&style=flat-square) Program Manager
 **Jun 2021 – Jul 2022**  
 - Built SQL-based ETL pipelines and automated business reporting workflows, improving data accessibility and reducing manual reporting time.  
 - Developed Tableau dashboards to analyze credit usage patterns and user behavior trends, enabling data-driven decision-making.  
