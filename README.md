@@ -70,30 +70,33 @@ Built a large language model agent that dynamically selects the best tool for a 
 
 ## Experience
 
-### ![Sabre](https://img.shields.io/badge/-Sabre-E32227?logo=sabre&logoColor=white&style=flat-square) Software Developer Intern  
+### ![Sabre](https://img.shields.io/badge/-Sabre-E32227?logo=sabre&logoColor=white&style=flat-square) Product Management Intern  
 **May 2024 – Aug 2024**  
-• Built Power BI dashboards to provide real-time visibility into global bookings (reduced report time by 30%)  
-• Analyzed 500K+ multilingual booking records to identify UX drop-offs (improved funnel by 15%)  
-• Automated reporting workflows using Python and Power Query (cut manual effort by 25%)  
-• Delivered executive dashboards and metrics impacting product OKRs
+- Developed and maintained product roadmaps with clear initiatives based on user research, leveraging SQL analysis of 500K+ bookings and qualitative insights from Product Discovery to drive data-backed proposals and increase client satisfaction scores.
+- Designed and deployed real-time Power BI dashboards with automated refresh pipelines, reducing executive reporting delays by 30% and improving visibility into small business payment issues across global regions.
+- Conducted market analysis and authored/refined user stories with clear acceptance criteria, contributing to a 10% increase in platform adoption rates.
+- Facilitated cross-functional collaboration between product and engineering teams, accelerating delivery of high-impact features and resolving workflow roadblocks to improve team velocity by 20%.
 
-### ![Capgemini](https://img.shields.io/badge/-Capgemini-0066A1?logo=capgemini&logoColor=white&style=flat-square) Senior Analyst  
+
+### ![Capital One](https://img.shields.io/badge/-Capgemini-0066A1?logo=capgemini&logoColor=white&style=flat-square) Product Owner  
 **Jul 2022 – Jun 2023**  
-• Led fraud detection modeling for Capital One’s SMB credit card platform  
-• Reduced false positives by 30% using TensorFlow and near-real-time monitoring  
-• Built predictive dashboards that influenced campaign strategy and feature rollout  
+- Spearheaded the transition to product-based agile squads by developing a comprehensive framework that aligned engineering, marketing, and sales teams with business goals, resulting in a 20% faster product release cycle.
+- Created and maintained playbooks for key product development epics, ensuring consistent execution across teams and improving onboarding speed for new team members by 30%.
+- Conducted in-depth analysis of user interactions within the payment feature; insights informed design adjustments that increased conversion rates by 25% and boosted SMB client revenue.
+- Leveraged qualitative feedback from 50+ SME clients to refine onboarding workflows, driving a 20% improvement in user activation within the first week.
 
-### ![Capgemini](https://img.shields.io/badge/-Capgemini-0066A1?logo=capgemini&logoColor=white&style=flat-square) Analyst / Software Engineer  
+
+### ![Capital One](https://img.shields.io/badge/-Capgemini-0066A1?logo=capgemini&logoColor=white&style=flat-square) Program Manager 
 **Jun 2021 – Jul 2022**  
-• Built SQL-based ETL pipelines and automated business reporting  
-• Developed Tableau dashboards to analyze credit usage and behavior trends  
-• Implemented QA validation scripts in Python to enhance model precision and speed  
+- Built SQL-based ETL pipelines and automated business reporting workflows, improving data accessibility and reducing manual reporting time.  
+- Developed Tableau dashboards to analyze credit usage patterns and user behavior trends, enabling data-driven decision-making.  
+- Implemented QA validation scripts in Python to enhance data accuracy, model precision, and reporting reliability.  
 
 ### ![The Mohh](https://img.shields.io/badge/-The%20Mohh-333333?style=flat-square) Founding Member  
 **Jun 2018 – Jun 2021**  
-• Built and deployed 3 low-cost digital learning platforms for underserved schools  
-• Managed product lifecycle, partner integrations, and client relationships for 12+ institutions  
-• Delivered RFID-based school management tools under agile methodology  
+- Built and deployed three low-cost digital learning platforms for underserved schools, expanding educational access and engagement.  
+- Managed the full product lifecycle, partner integrations, and client relationships for 12+ institutions to ensure successful adoption.  
+- Delivered RFID-based school management tools using agile methodology, improving operational efficiency and reducing manual processes.  
 
 ---
 
