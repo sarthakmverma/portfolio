@@ -68,7 +68,7 @@ Built a large language model agent that dynamically selects the best tool for a 
 
 ---
 
-## Experience
+# Experience
 ### ![Sabre](https://img.shields.io/badge/-Sabre-E32227?logo=sabre&logoColor=white&style=flat-square) Product Management Intern  
 **May 2024 – Aug 2024**  
 &nbsp;&nbsp;• Developed and maintained product roadmaps with clear initiatives based on user research, leveraging SQL analysis of 500K+ bookings and qualitative insights from Product Discovery to drive data-backed proposals and increase client satisfaction scores.  
@@ -89,7 +89,7 @@ Built a large language model agent that dynamically selects the best tool for a 
 &nbsp;&nbsp;• Developed Tableau dashboards to analyze credit usage patterns and user behavior trends, enabling data-driven decision-making.  
 &nbsp;&nbsp;• Implemented QA validation scripts in Python to enhance data accuracy, model precision, and reporting reliability.  
 
-### ![The Mohh](https://img.shields.io/badge/-The%20Mohh-333333?style=flat-square) Founding Member  
+### ![The Mohh](https://img.shields.io/badge/-The%20Mohh-333333?style=flat-square) Co-Founder 
 **Jun 2018 – Jun 2021**  
 &nbsp;&nbsp;• Built and deployed three low-cost digital learning platforms for underserved schools, expanding educational access and engagement.  
 &nbsp;&nbsp;• Managed the full product lifecycle, partner integrations, and client relationships for 12+ institutions to ensure successful adoption.  
