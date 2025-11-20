@@ -76,7 +76,5 @@ Built a large language model agent that dynamically selects the best tool for a 
 ---
 
 ## Contact
-
-**LinkedIn:** [linkedin.com/in/sarthakmverma](https://www.linkedin.com/in/sarthakmverma/)  
 **Portfolio:** [sarthakmverma.github.io](https://sarthakmverma.github.io/)  
 **Email:** [sarthak.verma@utdallas.edu](mailto:sarthak.verma@utdallas.edu)
